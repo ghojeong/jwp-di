@@ -1,4 +1,4 @@
-package core.di.factory.example;
+package core.di.example;
 
 import core.annotation.Inject;
 import core.annotation.web.Controller;

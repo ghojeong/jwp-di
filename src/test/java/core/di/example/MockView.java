@@ -1,4 +1,4 @@
-package core.di.factory.example;
+package core.di.example;
 
 import core.mvc.View;
 

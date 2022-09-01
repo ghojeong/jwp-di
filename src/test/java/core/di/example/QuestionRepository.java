@@ -1,4 +1,4 @@
-package core.di.factory.example;
+package core.di.example;
 
 public interface QuestionRepository {
 
